@@ -1,0 +1,16 @@
+p
+Head First Java
+Kathy Sierra
+London
+2000
+p
+Thinking in Java
+Bruce Eckel
+Boston
+2021
+e
+Effective Java
+Joshua Bloch
+London
+2019
+asd
